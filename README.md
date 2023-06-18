@@ -1,4 +1,4 @@
-# nginx-controller
+
 # Author: Ibrehima DevOps Engineeer 
 # Install Nginx - Controller 
     helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
